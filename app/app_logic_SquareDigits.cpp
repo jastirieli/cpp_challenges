@@ -1,5 +1,5 @@
 #include <iostream>
-#include "SquareDigits.h"
+#include "SquareDigits.hpp"
 
 void run_app() {
     int input;
