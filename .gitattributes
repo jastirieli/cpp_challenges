@@ -1,0 +1,13 @@
+*.sh text eol=lf
+*.bat text eol=crlf
+*.py text eol=lf
+*.c text eol=lf
+*.cpp text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+
+# Arquivos binários não devem ser tocados
+*.png binary
+*.jpg binary
+*.exe binary
+*.dll binary
